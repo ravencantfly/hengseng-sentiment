@@ -20,6 +20,8 @@ Open `reports/report.html`.
 - Exchange: HKEX (Tencent, Alibaba, HSBC, Meituan, Xiaomi)
 - Social: Telegram + LIHKG via Apify. Actor IDs: (fill in)
 - News: Exa.com
+- Actor IDs: tri_angle/telegram-scraper and claude_code_reviewer/lihkg-scraper-en
+- Telegram Channels used: SmallCapAsiaChannel,investkaki
 
 ## Method
 - Posts aligned to hourly price bars in UTC (latest bar at/before post time).
