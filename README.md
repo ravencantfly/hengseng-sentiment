@@ -31,3 +31,9 @@ Open `reports/report.html`.
 
 ## Limitations
 10 days of data is a tiny sample; results are noisy and not evidence of tradable edge.
+## Results
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/943c79bd-0308-46a7-b88a-aea2168cdce1" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/f6e220de-a033-4ee0-8d88-31e1da02b59e" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/d2f15836-fc6f-4226-ad4e-c94648a06846" />
+
+
