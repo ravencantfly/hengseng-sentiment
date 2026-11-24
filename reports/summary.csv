@@ -1,0 +1,11 @@
+ticker,name,price,mentions,sentiment,direction,top_position,support (posts),resistance (posts),support (calc),resistance (calc)
+0700.HK,Tencent,343.2,0,0.0,Neutral,-,,,333.0,386.6
+9988.HK,Alibaba,82.6,0,0.0,Neutral,-,,,79.5,88.2
+0005.HK,HSBC,131.2,0,0.0,Neutral,-,,,126.1,139.4
+3690.HK,Meituan,64.75,0,0.0,Neutral,-,,,63.0,72.95
+1810.HK,Xiaomi,26.24,0,0.0,Neutral,-,,,26.14,30.52
+NVDA,NVIDIA,165.18,2,-0.35,Bearish,-,,,124.5,171.5
+TSLA,Tesla,385.86,0,0.0,Neutral,-,,,344.33,393.83
+AAPL,Apple,349.62,0,0.0,Neutral,-,,,340.56,356.42
+MSFT,Microsoft,492.97,0,0.0,Neutral,-,,,481.03,526.49
+GOOGL,Alphabet,282.31,0,0.0,Neutral,-,,,264.22,295.43

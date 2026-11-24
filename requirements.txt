@@ -1,0 +1,9 @@
+apify-client
+exa-py
+yfinance
+openai
+pandas
+numpy
+scikit-learn
+plotly
+python-dotenv

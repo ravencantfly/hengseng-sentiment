@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\IBS\Documents\hangseng-sentiment\main.py", line 4, in <module>
+    from src import scrape_social, fetch_news, prices, sentiment, features, model, report
+  File "C:\Users\IBS\Documents\hangseng-sentiment\src\scrape_social.py", line 50
+    json.dump(items, open(path, "w"), ensure_ascii=False)    df = pd.DataFrame(rows).dropna(subset=["ts"])
+                                                             ^^
+SyntaxError: invalid syntax
